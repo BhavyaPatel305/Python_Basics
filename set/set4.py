@@ -1,0 +1,5 @@
+sets = set({56,23,80,1,0,29})
+num  = sorted(sets)
+num.pop(-2)
+num = set(num)
+print(num)
