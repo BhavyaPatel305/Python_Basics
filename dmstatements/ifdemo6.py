@@ -10,6 +10,6 @@ no = 14
 # print("No3 is even")
 
 if no % 2 == 1:
-    print("No is odd")
+    print("No is Bhavya")
 else:
-    print("No is even")
+    print("No is Patel")
